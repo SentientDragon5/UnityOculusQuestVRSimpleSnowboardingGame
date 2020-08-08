@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * 
  * This script is for pauseing the game. There are multiple ways to pause a game, but i chose to use the ScaleTime as a way to do this.
  * To Slow down a game, change the Time.scaleTime float to adjust the speed. This does not affect Time.unscaledTime, which should

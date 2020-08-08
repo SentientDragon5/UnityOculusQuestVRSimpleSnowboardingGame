@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * This script spawns a rock or other obstacle on the slope at a random X value.
  */
 using System.Collections;

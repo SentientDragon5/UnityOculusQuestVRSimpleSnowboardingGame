@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * 
  * This script is for the board, it Clamps the speed to a float you configure in the inspector.
  */

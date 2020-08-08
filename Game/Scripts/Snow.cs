@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * This goes on the Slope itself, it allows the slope to delete itself after some distance, and is spawned by the GameMaster.
  */
 using System.Collections;

@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * This script would move the world space UI to a convinient location for the user
  */
 using System.Collections;

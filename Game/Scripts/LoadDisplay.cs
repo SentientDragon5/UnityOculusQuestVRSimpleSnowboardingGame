@@ -1,4 +1,5 @@
-﻿/* This Script's purpose is to display different types of information on a text component in Unity's UI.
+﻿/* Snowboarding1 - SentientDragon5
+ * This Script's purpose is to display different types of information on a text component in Unity's UI.
  * 
  * Enums are very useful. They can be used as State changes for players (idle mode or walk or attack for instance)
  * In this I am using it as a Multiple Choice box for input.

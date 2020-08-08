@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿/* Snowboarding1 - SentientDragon5
+ * Button to load the first sceene
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;

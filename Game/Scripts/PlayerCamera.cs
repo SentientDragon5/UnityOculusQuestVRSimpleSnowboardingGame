@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * This is a simple script that allows the object attachced to have it's location set to the Player. Originally only meant for the
  * Camera Rig, this script is now used for most objects that are consistant in the game, such as the "fog", score canvas, board, 
  * White plane below the player, the bounds for the player.

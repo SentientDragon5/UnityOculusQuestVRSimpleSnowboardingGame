@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * this script allows the world space UI (or whatever the target would be) to pop up when the trigger is enabled.
  */
 using System.Collections;

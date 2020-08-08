@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * 
  * There is no good way to recenter an oculus Quest or Rift.
  * So far I have found that you need to have a parent gameobject to the OVRCameraRig, such that

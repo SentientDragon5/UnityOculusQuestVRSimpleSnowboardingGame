@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * 
  * This is an old script, effects are now controlled by the player.
  * This script was used to mimic the pause, but only if you die.

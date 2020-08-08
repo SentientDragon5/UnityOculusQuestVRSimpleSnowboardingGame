@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * 
  * This script is for the board, it changes it's rotation to the ground's normal.
  */

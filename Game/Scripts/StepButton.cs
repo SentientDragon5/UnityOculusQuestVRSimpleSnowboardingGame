@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * this button is used to add a step to a float, that it gets from the loadManager, whether that is the settings page, or the volume.
  */
 using System.Collections;

@@ -1,5 +1,4 @@
-﻿/* Snowboarding1
- * Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * 
  * This is The player script. I have annotated some of the functions, though most of it should be straightforward
  * considering I am a novice programmer.

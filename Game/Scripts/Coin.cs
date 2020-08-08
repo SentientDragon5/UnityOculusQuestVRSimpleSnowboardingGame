@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * This script is to be attached to the Coin, when collided with, it does an animation and then delets itself
  */
 using System.Collections;

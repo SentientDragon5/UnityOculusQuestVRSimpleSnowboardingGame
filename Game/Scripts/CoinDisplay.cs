@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * This script displays the number of coins a player has from the LoadManager directly.
  */
 using UnityEngine;

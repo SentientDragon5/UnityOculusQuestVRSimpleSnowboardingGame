@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * This script can be attached to anything with a collider with Trigger enabled. this will then call the acociated event.
  */
 using System.Collections;

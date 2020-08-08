@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * 
  * This script is for anything with an AudioSource. It will get the Volume from the Loadmanager (saved to the device
  * across sessions, so that when you close the game the settings of the volume saves. This script reads the info.

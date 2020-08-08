@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * This script controlls my dubbed GameMaster, it is the spawner of the slopes for the mountain. 
  * in the inspector you include all of the options, then this randomizes the size, then the shape of the slope.
  */

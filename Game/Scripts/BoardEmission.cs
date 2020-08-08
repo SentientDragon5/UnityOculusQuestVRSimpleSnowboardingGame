@@ -1,4 +1,4 @@
-﻿/* Snowboarding1 - Logan Shehane
+﻿/* Snowboarding1 - SentientDragon5
  * 
  * This script is for the board, it changes whether the board should turn on a particle effect in the back of the board.
  * The side particle effects are controlled by the player.

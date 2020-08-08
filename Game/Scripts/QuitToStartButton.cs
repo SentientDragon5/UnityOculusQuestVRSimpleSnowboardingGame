@@ -1,5 +1,4 @@
-﻿/*SnowBoarding 1
- * Logan Shehane
+﻿/* SnowBoarding1 - SentientDragon5
  * 
  * This script controls buttons that send user to the Start Screen
  * 
